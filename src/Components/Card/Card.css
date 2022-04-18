@@ -1,0 +1,48 @@
+.container{
+
+  font-family: inherit;
+  width: 25em;
+  display: inline-block;
+  margin-right: 2em;
+  padding-top: 2em;
+  margin-right: 5em;
+  margin-top: 5em;
+  background-color: rgb(255, 255, 255);
+}
+
+.container1{
+  display: flex;
+  width: 45em;
+  margin-left: 5em;
+  margin-top: 2em;
+  width: fit-content;
+  color:rgb(101, 125, 130)
+}
+
+.container2{
+  display: flex;
+  width: 45em;
+  margin-left: 5em;
+  margin-top: 2em;
+  width: fit-content;
+ 
+}
+
+.container3{
+  display: flex;
+  width: 4em;
+  margin-left: 5em;
+  background-color: rgb(202, 251, 245);
+  color: rgb(106, 129, 159);
+  margin-top: 1em;
+}
+
+
+.container4{
+  display: flex;
+  width: 4em;
+   margin-left: 5em;
+   background-color: rgb(202, 251, 245);
+   color: rgb(106, 129, 159);
+   margin-top: 1em;
+}
